@@ -76,7 +76,7 @@ const Weather = () => {
         <>
             <div className="main flex justify-center items-center relative h-screen w-screen">
                 <div className="bgimg absolute size-full">
-                <img className='size-full object-cover' src="weather.jpg" alt="" />
+                <img className='size-full object-cover' src="src/Assets/weather.jpg" alt="" />
                 </div>
 
                 <div className="container flex justify-center items-center flex-col fixed z-90 h-4/5 w-4/5 rounded-3xl backdrop-blur-3xl">

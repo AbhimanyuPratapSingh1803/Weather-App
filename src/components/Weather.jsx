@@ -75,7 +75,7 @@ const Weather = () => {
     return (
         <>
             <div className="main flex justify-center items-center relative h-screen w-screen">
-                <div className="bgimg absolute size-full bg-[url('src/Assets/weather.jpg')]">
+                <div className="bgimg absolute size-full bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90%">
                 </div>
 
                 <div className="container flex justify-center items-center flex-col fixed z-90 h-4/5 w-4/5 rounded-3xl backdrop-blur-3xl px-24">
